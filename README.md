@@ -1,5 +1,5 @@
 # c-projects
-Personal projects to practice fundamentals and learn C
+<h2>Personal projects to practice fundamentals and learn C</h2>
 
 
 /mini-db 
